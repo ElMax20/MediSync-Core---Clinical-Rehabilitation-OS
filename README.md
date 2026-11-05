@@ -15,7 +15,7 @@ Goniometría, Rutinas)
 - Diagrama de Arquitectura Offline-First y Motor de Sincronización
 ## 🚀 Requisitos e Instalación
 ### Para Desarrollo
-git clone https://github.com/usuario/medisync-core.git
+git clone [https://github.com/usuario/medisync-core.git](https://github.com/usuario/medisync-core.git)
 cd medisync-core
 npm install
 npm run dev
